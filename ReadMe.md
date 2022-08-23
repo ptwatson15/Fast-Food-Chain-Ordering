@@ -1,7 +1,8 @@
 ## Fast Food Project
 
 ### About
-Submitted to Sir Larry Vea for requirements in IT131-8L (Information Management Laboratory)
+This was a simple project that I made for my Information Management class that simulates a cashier taking orders.
+
 
 ### Languages used
 This Project was written using C# and SQL using Microsoft Visual Studio Enterprise 2017 v. 15.9.27 and Microsoft SQL Server Management Studio v. 18.6.
@@ -56,4 +57,6 @@ Time_Stamp
 
 ## Credits
 This project was made by Patrick Watson
+
+Submitted to Sir Larry Vea for requirements in IT131-8L (Information Management Laboratory)
 
