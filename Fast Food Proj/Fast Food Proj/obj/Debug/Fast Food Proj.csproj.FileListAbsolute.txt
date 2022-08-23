@@ -1,0 +1,24 @@
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.exe.config
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.exe
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.pdb
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.Form1.resources
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.Properties.Resources.resources
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.exe
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.pdb
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.CUSTOMER.resources
+C:\Users\Patrick\source\repos\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.MENU.resources
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.exe.config
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.exe
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\bin\Debug\Fast Food Proj.pdb
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.Form1.resources
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.CUSTOMER.resources
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.MENU.resources
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast_Food_Proj.Properties.Resources.resources
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csproj.GenerateResource.cache
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.exe
+C:\Users\Patrick\Desktop\Info manag\Project\Fast Food Proj\Fast Food Proj\obj\Debug\Fast Food Proj.pdb
